@@ -8,6 +8,7 @@ dependencies = [
     "h5py>=3.16.0",
     "imageio>=2.37.4",
     "ipykernel>=7.3.0",
+    "matplotlib>=3.11.1",
     "pandas>=3.0.5",
     "torch>=2.13.0",
 ]
